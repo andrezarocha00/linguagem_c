@@ -1,27 +1,30 @@
 # 💻 Exercícios em C
 
-📚 Repositório onde estou praticando e salvando meus exercícios da linguagem C.
+📚 Repositório com exercícios que estou desenvolvendo durante meus estudos de programação em C.
 
 ---
 
-## 📂 Organização
+## 🧠 Sobre
 
-Os exercícios estão separados por temas conforme avanço nas aulas.
+Aqui estão os códigos feitos ao longo das aulas, seguindo a sequência proposta pelo professor.
+
+---
+
+## 📌 Organização
+
+Os arquivos seguem a ordem das aulas e exercícios, conforme estou aprendendo.
 
 ---
 
 ## 🎯 Objetivo
 
-Evoluir na lógica de programação e aprender C na prática.
+Praticar lógica de programação e evoluir na linguagem C.
 
 ---
 
-## 🚀 Progresso
+## 🚀 Observação
 
-- [x] Início  
-- [ ] Básico  
-- [ ] Condicionais  
-- [ ] Loops  
+Este repositório faz parte do meu processo de aprendizado, então os códigos refletem minha evolução com o tempo.
 
 ---
 
