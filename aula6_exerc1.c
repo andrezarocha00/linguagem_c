@@ -2,9 +2,13 @@
 
 void regressiva (int valor){
 	int fim = 0;
-	for (; valor > fim; valor++){
+	for(; valor > fim; valor--){
 		printf("%d ", valor);
+
 	}
+
+	printf("Lift-off!\n");
+
 }
 int main(){
 	int numero;
